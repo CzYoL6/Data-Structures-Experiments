@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.cpp
+radixsort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.h
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.h
+bits/stdc++.h
+-
+

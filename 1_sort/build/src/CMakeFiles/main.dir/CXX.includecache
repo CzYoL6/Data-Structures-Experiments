@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/InsertSort/insertsort.h
+bits/stdc++.h
+-
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/MergeSort/mergesort.h
+bits/stdc++.h
+-
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/QuickSort/quicksort.h
+bits/stdc++.h
+-
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.h
+bits/stdc++.h
+-
+
+D:/Programming/c++/DataStructureEx/1_sort/mylib/ShellSort/shellsort.h
+bits/stdc++.h
+-
+
+D:/Programming/c++/DataStructureEx/1_sort/src/Main_Compare.cpp
+../mylib/InsertSort/insertsort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/InsertSort/insertsort.h
+../mylib/MergeSort/mergesort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/MergeSort/mergesort.h
+../mylib/QuickSort/quicksort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/QuickSort/quicksort.h
+../mylib/RadixSort/radixsort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.h
+../mylib/ShellSort/shellsort.h
+D:/Programming/c++/DataStructureEx/1_sort/mylib/ShellSort/shellsort.h
+

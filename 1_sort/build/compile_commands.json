@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/mylib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -static  -g -o CMakeFiles\\Mylib.dir\\InsertSort\\insertsort.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\mylib\\InsertSort\\insertsort.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/mylib/InsertSort/insertsort.cpp"
+},
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/mylib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -static  -g -o CMakeFiles\\Mylib.dir\\QuickSort\\quicksort.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\mylib\\QuickSort\\quicksort.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/mylib/QuickSort/quicksort.cpp"
+},
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/mylib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -static  -g -o CMakeFiles\\Mylib.dir\\ShellSort\\shellsort.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\mylib\\ShellSort\\shellsort.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/mylib/ShellSort/shellsort.cpp"
+},
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/mylib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -static  -g -o CMakeFiles\\Mylib.dir\\MergeSort\\mergesort.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\mylib\\MergeSort\\mergesort.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/mylib/MergeSort/mergesort.cpp"
+},
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/mylib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -static  -g -o CMakeFiles\\Mylib.dir\\RadixSort\\radixsort.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\mylib\\RadixSort\\radixsort.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/mylib/RadixSort/radixsort.cpp"
+},
+{
+  "directory": "D:/Programming/c++/DataStructureEx/1_sort/build/src",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -static  -g -o CMakeFiles\\main.dir\\Main_Compare.cpp.obj -c D:\\Programming\\c++\\DataStructureEx\\1_sort\\src\\Main_Compare.cpp",
+  "file": "D:/Programming/c++/DataStructureEx/1_sort/src/Main_Compare.cpp"
+}
+]
